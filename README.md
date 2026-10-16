@@ -2,7 +2,7 @@
 
 This repository contains the complete Lean 4 / Mathlib formalization accompanying
 
-> S. A. Sheikh, M. Faizal, and A. S. Lone,
+> S. A. Sheikh, M. Faizal, and A. Shabir,
 > *An Arrow of Time That Efficient Observers Cannot Detect: Information-Preserving Records of Irreversible Dynamics* (2026).
 
 The whole development is a single file, [`ArrowOfTime.lean`](ArrowOfTime.lean) (about 6,000 lines). It contains **no `sorry` and no `axiom` declarations**.
@@ -65,7 +65,7 @@ at the end of the file, or in a separate file that imports `ArrowOfTime`.
 
 ## Contact
 
-Corresponding author: Arshid Shabir Lone (aslone186@gmail.com)
+Corresponding author: Arshid Shabir (aslone186@gmail.com)
 Sajad Ahmad Sheikh: sajadsheikh@uok.edu.in
 
 ## License
