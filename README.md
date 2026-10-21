@@ -1,5 +1,7 @@
 # Lean 4 formalization: *An Arrow of Time That Efficient Observers Cannot Detect*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23416818.svg)](https://doi.org/10.5281/zenodo.23416818)
+
 This repository contains the complete Lean 4 / Mathlib formalization accompanying
 
 > S. A. Sheikh, M. Faizal, and A. Shabir,
@@ -62,6 +64,27 @@ at the end of the file, or in a separate file that imports `ArrowOfTime`.
 | `VERIFICATION.md` | Claim-by-claim map from the paper to Lean theorem names |
 | `lakefile.toml` | Lake build configuration (Mathlib dependency) |
 | `lean-toolchain` | Pinned Lean version |
+| `CITATION.cff` | Citation metadata (powers GitHub's "Cite this repository" button) |
+
+## How to cite
+
+If you use this formalization, please cite it as:
+
+> S. A. Sheikh, M. Faizal, and A. Shabir, *Lean 4 formalization of "An Arrow of Time That Efficient Observers Cannot Detect,"* version 1.0, Zenodo (2026), doi:[10.5281/zenodo.23416818](https://doi.org/10.5281/zenodo.23416818).
+
+BibTeX:
+
+```bibtex
+@software{sheikh_arrow_of_time_lean_2026,
+  author    = {Sheikh, Sajad Ahmad and Faizal, Mir and Shabir, Arshid},
+  title     = {Lean 4 formalization of ``An Arrow of Time That Efficient Observers Cannot Detect''},
+  version   = {1.0},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23416818},
+  url       = {https://doi.org/10.5281/zenodo.23416818}
+}
+```
 
 ## Contact
 

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite it as below."
+type: software
+title: >-
+  Lean 4 formalization of "An Arrow of Time That Efficient Observers
+  Cannot Detect"
+authors:
+  - family-names: Sheikh
+    given-names: Sajad Ahmad
+    affiliation: >-
+      Department of Mathematics, University of Kashmir, South Campus,
+      Anantnag, 192101, Jammu and Kashmir, India
+    email: sajadsheikh@uok.edu.in
+  - family-names: Faizal
+    given-names: Mir
+    affiliation: >-
+      University of British Columbia Okanagan; Hasselt University
+  - family-names: Shabir
+    given-names: Arshid
+    affiliation: >-
+      National Institute of Technology Srinagar; Canadian Quantum
+      Research Center
+    email: aslone186@gmail.com
+version: "1.0"
+doi: 10.5281/zenodo.23416818
+date-released: 2026-10-16
+repository-code: "https://github.com/sajadcosmos/arrow-of-time-lean"
+url: "https://doi.org/10.5281/zenodo.23416818"
+license: MIT
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - arrow of time
+  - stochastic thermodynamics
+  - computational indistinguishability
