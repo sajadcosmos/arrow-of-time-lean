@@ -26,7 +26,7 @@ doi: 10.5281/zenodo.23416818
 date-released: 2026-10-16
 repository-code: "https://github.com/sajadcosmos/arrow-of-time-lean"
 url: "https://doi.org/10.5281/zenodo.23416818"
-license: MIT
+license: Apache-2.0
 keywords:
   - Lean 4
   - Mathlib
